@@ -129,7 +129,7 @@ After the repository is made public, the following statement can be used in the 
 \section*{Code Availability}
 
 The source code of HydroTC-Net is available at
-\url{https://github.com/<username>/HydroTC-Net}.
+\url{https://github.com/zhoutong634/HydroTC-Net}.
 ```
 
 Replace `<username>` with the GitHub username and create a versioned release for reproducible citation.
